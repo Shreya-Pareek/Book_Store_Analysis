@@ -1,4 +1,4 @@
-#Data Analytics Project: Book Sales Analysis
+# Data Analytics Project: Book Sales Analysis
 
 ### Overview:
 This data analytics project aims to analyze book sales data from various perspectives using multiple datasets encompassing awards, checkout records, editions, publishers, ratings, series, and quarterly sales information. The project will delve into understanding book sales trends, popular genres, publisher performance, and the impact of awards and ratings on sales.
